@@ -12,7 +12,7 @@ constraintlayout = "2.1.4"
 lifecycleLivedataKtx = "2.8.6"
 lifecycleViewmodelKtx = "2.8.6"
 roomCompiler = "2.6.1"
-roomRuntime = "2.6.1"
+roomRuntime = "2.5.2"
 
 
 [libraries]
